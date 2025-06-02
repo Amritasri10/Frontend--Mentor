@@ -16,9 +16,14 @@ Users should be able to:
 
 ## Screenshot
 
-- [Desktop solution](screenshot1.png)
-- [Desktop solution (active state)](screenshot2.png)
-- [Mobile solution (active state)](screenshot3.png)
+- Desktop solution
+ [design/Desktop solution](screenshot1.png)
+
+- Desktop solution (active state)
+  [design/Desktop solution (active state)](screenshot2.png)
+
+- Mobile solution (active state)
+  [Mobile solution (active state)](screenshot3.png)
 
 
 ## Tech Stack
@@ -29,4 +34,4 @@ Users should be able to:
 
 ## Author
 
-- Linkedln
+- [Linkedln](https://www.linkedin.com/in/amrita-srivastava10/)
