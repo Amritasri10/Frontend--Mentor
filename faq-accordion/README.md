@@ -20,10 +20,10 @@ Users should be able to:
    ![](design/screenshot1.png)
 
 - Desktop solution (active state)
-   ![design/screenshot2.png](screenshot2.png)
+   ![](design/screenshot2.png)
 
 - Mobile solution (active state)
-   ![design/screenshot3.png](screenshot3.png)
+   ![](design/screenshot3.png)
 
 
 ## Tech Stack
