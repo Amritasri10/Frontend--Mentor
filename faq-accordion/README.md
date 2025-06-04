@@ -17,13 +17,13 @@ Users should be able to:
 ## Screenshot
 
 - Desktop solution
-   ![design/Desktop solution](screenshot1.png)
+   ![design/screenshot1](screenshot1.png)
 
 - Desktop solution (active state)
-   ![design/Desktop solution (active state)](screenshot2.png)
+   ![design/screenshot2](screenshot2.png)
 
 - Mobile solution (active state)
-   ![Mobile solution (active state)](screenshot3.png)
+   ![deign/screenshot3](screenshot3.png)
 
 
 ## Tech Stack
