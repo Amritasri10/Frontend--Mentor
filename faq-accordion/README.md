@@ -17,7 +17,7 @@ Users should be able to:
 ## Screenshot
 
 - Desktop solution
-   ![design/screenshot1.png](screenshot1.png)
+   ![](design/screenshot1.png)
 
 - Desktop solution (active state)
    ![design/screenshot2.png](screenshot2.png)
